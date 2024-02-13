@@ -1,0 +1,2 @@
+linuxpath=./200k.txt
+reread_on_query=True
